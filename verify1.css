@@ -1,0 +1,19 @@
+body{
+
+background-color:#99ccff;
+
+}
+.class1{
+   padding:100px;
+}
+#box2{
+   position:relative;
+   background-color:orange;
+}
+#back1{
+   position:relative;
+   left:10px;
+   top:320px;
+   color:black;
+   padding:5px 10px;
+}

@@ -1,0 +1,17 @@
+body{
+   background-color:pink;
+   
+}
+.class1{
+   padding:50px;
+}
+#id3{
+   padding:50px;
+}
+#id4{
+   position:relative;
+   left:10px;
+   top:370px;
+   color:black;
+   padding:5px 10px;
+}

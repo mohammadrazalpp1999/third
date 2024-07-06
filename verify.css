@@ -1,0 +1,21 @@
+body{
+   background-color:red;
+}
+.class1{
+   padding:50px;
+
+}
+#id0{
+   position:relative;
+   border:solid blue;
+}
+#id1{
+   background-color:green;
+   border:solid green;
+   position:relative;
+   left:100px;
+}
+#id2{
+   position:relative;
+   top:380px;
+}

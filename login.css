@@ -1,0 +1,38 @@
+body{
+   background-color:#99ccff;
+}
+
+#img1{
+   padding:5px 10px;
+   border: solid black;
+   background-color:	#99ccff;
+   position: relative;
+   left: 62px;
+   top:55px;
+}
+.input1{
+   position: relative;
+   left:55px;
+   top:80px;
+}
+#id2{
+   color:black;
+}
+.links{
+   position: relative;
+   left:55px;
+   top:80px;
+}
+#input11{
+   border:solid black 2px;
+}
+#input12{
+   border:solid black 2px;
+}
+#id1{
+   background-color:#04AA6D;
+   border:solid black 2px;
+   position: relative;
+   left:110px;
+   top:0px;
+}

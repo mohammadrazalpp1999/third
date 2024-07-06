@@ -1,0 +1,15 @@
+body{
+   background-color:black;
+}
+#id{
+   background-color:red;
+   color:green;
+   position:relative;
+}
+#pic1{
+   padding:50px;
+}
+#id1{
+   position:relative;
+   top:1px;
+}
